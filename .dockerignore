@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+*.env
+venv/
+.venv/
+env/
+*.egg-info/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local data / outputs
+faiss_index/
+*.pdf
+
+# Node modules, if any
+node_modules/
+
+# Logs
+*.log

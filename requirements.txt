@@ -1,0 +1,16 @@
+# Core App
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+groq
+PyPDF2
+chromadb
+faiss-cpu
+
+# Embeddings / Transformers
+torch
+transformers
+huggingface-hub
+sentence-transformers
